@@ -10,9 +10,10 @@
   
 *** 
  ## Introdução
- Este projeto avaliativo consiste em um Web App que foi desenvolvido utilizando metodologia scrum com 4 sprints de 2 semanas, orientado e supervisionado pela equipe de tutores com foco em agilidade, aplicação de conhecimentos técnicos, clima e cultura de trabalho. 
 
-Nossa squad consiste em uma equipe com 6 pessoas, sendo 1 Lider de Front End, 1 Lider de Back End, 1 Lider de Infraestrutura, 1 Lider de Banco de Dados, 1 Lider de Teste e 1 FullStack que presta suporte a todas as frentes. 
+Este projeto avaliativo consiste em um Web App que foi desenvolvido utilizando metodologia scrum com 4 sprints de 2 semanas, orientado e supervisionado pela equipe de tutores com foco em agilidade, aplicação de conhecimentos técnicos, clima e cultura de trabalho. 
+
+Nossa squad consiste em uma equipe com 6 pessoas, sendo 1 Lider de Front End Jennifer Mayumi, 1 Lider de Back End Nelson Kobayashi, 1 Lider de Infraestrutura Paulo Ventura, 1 Lider de Banco de Dados Nathalia Vieira, 1 Lider de Teste Andre Ribeiro e 1 FullStack Luiz Gustavo Trindade, que presta suporte a todas as frentes. 
 
 Alucar e um Web App de aluguel de carros online que conecta quem precisa alugar um carro com as melhores opções e preços do país, uma plataforma 100% segura que traz consigo a segurança e conforto necessário para utilização dos serviços oferecidos.
 
@@ -82,3 +83,70 @@ Alucar e um Web App de aluguel de carros online que conecta quem precisa alugar 
   
   * Criar repositório Gitlab e realizar o suporte dos integrantes do repositório;
   * Criar esboço da rede necessária para execução do projeto (servidores, banco de dados e armazenamento).
+  
+
+### Lições aprendidas
+
+> Melhorar a Gestao do tempo;
+> 
+> Entregar maior valor para cliente;
+>
+> Descentralizar tarefas;
+>
+> Maior integração do grupo.
+
+
+***
+
+### **Segunda Sprint**
+
+* **Front End**
+
+  * Criar tela de detalhe do produto;
+  * Conexão APIs com a página Home;
+  * Conexão APIs com a página detalhe do produto.
+
+* **Back End**
+
+  * API de produtos: 
+    - Criar produtos. 
+    - Listar produtos por categoria. 
+    - Listar produtos por cidade. 
+    - Buscar produtos por id. 
+    - Listar todos os produtos.
+  
+  * API de cidades:
+    - Listar cidades.
+    - Criar cidades
+
+* **Banco Dados**
+  
+  * Criar tabela de produtos.
+  * Criar tabela de cidades.
+  * Criar tabela de características. 
+  * Criar tabela de imagens.
+
+* **Testing**
+  
+  * Teste com Robot Framework da página Home.
+  * Teste com Postman das APIs.
+
+* **Infraestrutura**
+  
+  * Criar infraestrutura para hospedagem no AWS.
+  
+  
+
+### Lições aprendidas
+
+> Planejamento da review, para entregar o real valor do produto para o cliente;
+> 
+> Adaptação dos requisitos;
+>
+> Refatoração e aperfeiçoando do código para melhor desepenho.
+> 
+> Espírito de Equipe.
+
+
+
+
