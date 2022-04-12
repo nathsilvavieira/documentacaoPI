@@ -1,12 +1,12 @@
 # Projeto Integrador: Alucar
 
 ## Tópicos 
-*   [Introdução](https://github.com/nathsilvavieira/documentacaoPI#introdu%C3%A7%C3%A3o)
-*   [Ferramenta Utilizadas](https://github.com/nathsilvavieira/documentacaoPI#ferramenta-utilizadas)
+*   [Introdução](#introdução)
+*   [Ferramenta Utilizadas](#ferramenta-utilizadas)
 *   [Requisitos](#Requisitos)
-*   Como utilizar nossa plataforma
-*   Referências
-*   Agradecimentos
+*   [Como utilizar nossa plataforma](#)
+*   [Referências](#)
+*   [Agradecimentos](#)
   
 *** 
  ## Introdução
