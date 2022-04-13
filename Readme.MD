@@ -147,6 +147,113 @@ Alucar e um Web App de aluguel de carros online que conecta quem precisa alugar 
 > 
 > Espírito de Equipe.
 
+***
+
+### **Terceira Sprint**
+
+* **Front End**
+
+  * Tela de reserva.
+  * Tela de confirmação de reserva.
+
+* **Back End**
+
+  * API de produtos:
+    -  Consulta de produtos por cidade e por data.
+
+  * API de reserva:
+
+    -  Criar uma reserva;
+
+    -  Verificar as reservas por produto.
+
+  * API de usuários:
+
+    - Registro;
+
+    - Login com JWT.
+
+* **Banco Dados**
+  
+  *  Tabela de reservas;
+
+  *  Tabela de usuários; 
+
+  * Tabela de funções;
+
+* **Testing**
+  
+  * Criar testes unitários para páginas de reserva e confirmação de reserva usando JEST framework.
+  * Executar teste exploratório das páginas de reserva e confirmação de reserva.
+  * Desenvolver scripts de teste automatizados usando Postman para a API de produtos.
+  * Continuar com as atividades de criação e execução de casos de teste manuais e testes estáticos.
+
+* **Infraestrutura**
+  
+  * Fazer o deploy do código no servidor web EC2 na AWS;
+  * Criar tabelas no RDS na AWS;
+  * Adicionar imagens no Bucket AWS para gerar URL.
+  
+  
+
+### Lições aprendidas
+
+> Suporte das equipes transversais;
+> 
+> Determinação da equipe;
+>
+> Trabalhar no planejamento para evitar sobrecarga de atividades;
+> 
+> Priorizar entregas essenciais;
+
+
+### **Quarta Sprint**
+
+* **Front End**
+
+  * Página de administrador de produto. 
+  * Página de reservas feitas pelo usuário.
+
+* **Back End**
+
+  * API de reservas:
+    -  Filtrar por usuario.
+
+  * API de produto:
+
+    -  Modificar, buscar por id e listar todos.
+
+  * API de usuários:
+
+    - Registro;
+
+    - Login com JWT.
+
+* **Banco Dados**
+  
+  *  Entrega do DER do estado final da base de dados.
+
+* **Testing**
+  
+  * Criar e executar testes unitários utilizando JEST sobre as funcionalidades da página de reservas (realizadas por usuários) e sobre a página formulário de produto (a que se ingressa com perfil de administrador). 
+  * Realizar e registrar o testing exploratório sobre as funcionalidades da página de reservas e sobre a página formulário de produto. 
+  * Executar os casos de testes que pertencem à suite de regressão e gerar um relatório final de testes. 
+  * Adicionar à coleção de Postman scripts automatizados para testar os métodos  agregados neste sprint. 
+  * Criar um script relacionado a ambas páginas em testes de regressão automatizados criados com Selenium Web Driver / JEST.
+
+* **Infraestrutura**
+  
+  * Criar uma URL para acesso ao site do Projeto Integrador. 
+  * Criar Pipeline em Terraform para automatização 
+  
+  
+
+### Lições aprendidas
+
+
+
+
+
 
 
 
