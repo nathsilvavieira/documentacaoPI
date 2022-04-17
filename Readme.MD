@@ -4,7 +4,11 @@
 ## Tópicos 
 *   [Introdução](#introdução)
 *   [Ferramenta Utilizadas](#ferramenta-utilizadas)
-*   [Requisitos](#Requisitos)
+*   [Requisitos](#requisitos)
+      - [Primeira Sprint](#primeira-sprint)
+      - [Segunda Sprint](#segunda-sprint)
+      - [Terceira Sprint](#terceira-sprint)
+      - [Quarta Sprint](#quarta-sprint)
 *   [Como utilizar nossa plataforma](#)
 *   [Referências](#)
 *   [Agradecimentos](#)
@@ -15,6 +19,8 @@
 Este projeto avaliativo consiste em um Web App que foi desenvolvido utilizando metodologia scrum com 4 sprints de 2 semanas, orientado e supervisionado pela equipe de tutores com foco em agilidade, aplicação de conhecimentos técnicos, clima e cultura de trabalho. 
 
 Nossa squad consiste em uma equipe com 6 pessoas, sendo 1 Lider de Front End Jennifer Mayumi, 1 Lider de Back End Nelson Kobayashi, 1 Lider de Infraestrutura Paulo Ventura, 1 Lider de Banco de Dados Nathalia Vieira, 1 Lider de Teste Andre Ribeiro e 1 FullStack Luiz Gustavo Trindade, que presta suporte a todas as frentes. 
+
+Durante o processo de desenvolvimento do projeto precisamos solucionar inumeros problemas e romper algumas barreiras tanto técnicas como de softskills para criação de um Web App consistente. 
 
 Alucar e um Web App de aluguel de carros online que conecta quem precisa alugar um carro com as melhores opções e preços do país, uma plataforma 100% segura que traz consigo a segurança e conforto necessário para utilização dos serviços oferecidos.
 
@@ -32,6 +38,7 @@ Alucar e um Web App de aluguel de carros online que conecta quem precisa alugar 
 * *Java* 
   * *Spring* 
   * *Hibernete*
+  * *Javadoc*
 * *API*
   * *REST*
   * *JSON*
@@ -69,11 +76,15 @@ Alucar e um Web App de aluguel de carros online que conecta quem precisa alugar 
 * **Back End**
 
   * Expor uma API Rest que nos permita gerenciar as diferentes categorias de nossos carros, ou seja, a API deve nos permitir realizar operações CRUD. 
+    -  [Link Javadoc](#)
   * Testar com Postman o funcionamento correto.
 
 * **Banco Dados**
   
-    * Criar uma base de dados em Mysql e a tabela “categorias” para persistir os dados de nosso sistema. 
+    * Criar uma base de dados em Mysql e a tabela “categorias” para persistir os dados de nosso sistema.
+    
+    ![Tabela Categorias](https://user-images.githubusercontent.com/83051644/163734538-920da244-756f-44ee-9f45-a6f943173520.png)
+
 
 * **Testing**
   
@@ -85,18 +96,21 @@ Alucar e um Web App de aluguel de carros online que conecta quem precisa alugar 
 * **Infraestrutura**
   
   * Criar repositório Gitlab e realizar o suporte dos integrantes do repositório;
+    - [Gitlab Grupo 4](https://gitlab.com/projeto-integrador-brasil/turma1/projeto-integrador-v1.0_equipe4)
   * Criar esboço da rede necessária para execução do projeto (servidores, banco de dados e armazenamento).
+  ![Desenho da Infraestrutura](https://user-images.githubusercontent.com/83051644/163735020-01ed08e6-413f-48ee-9492-8746969ac114.png)
+
   
 
-### Lições aprendidas
+### Review - Lições aprendidas
 
-> Melhorar a Gestao do tempo;
-> 
-> Entregar maior valor para cliente;
->
-> Descentralizar tarefas;
->
-> Maior integração do grupo.
+:white_check_mark: Melhorar a Gestao do tempo;
+ 
+:white_check_mark: Entregar maior valor para cliente;
+
+:white_check_mark: Descentralizar tarefas;
+
+:white_check_mark: Maior integração do grupo.
 
 
 ***
@@ -140,7 +154,7 @@ Alucar e um Web App de aluguel de carros online que conecta quem precisa alugar 
   
   
 
-### Lições aprendidas
+### Review - Lições aprendidas
 
 > Planejamento da review, para entregar o real valor do produto para o cliente;
 > 
@@ -199,7 +213,7 @@ Alucar e um Web App de aluguel de carros online que conecta quem precisa alugar 
   
   
 
-### Lições aprendidas
+### Review - Lições aprendidas
 
 > Suporte das equipes transversais;
 > 
@@ -251,7 +265,7 @@ Alucar e um Web App de aluguel de carros online que conecta quem precisa alugar 
   
   
 
-### Lições aprendidas
+### Review - Lições aprendidas
 
 
 
