@@ -60,17 +60,17 @@ Alucar e um Web App de aluguel de carros online que conecta quem precisa alugar 
 
 * **Front End**
 
-  * Template da página home responsive, que inclua header, buscador, categorias de forma funcional, lista de produtos e footer, além de um bloco emergente de registro de login.
+  * Template da página home responsive, que inclua header, buscador, categorias de forma funcional, lista de carros e footer, além de um bloco emergente de registro de login.
+ 
 
 * **Back End**
 
-  * Expor uma API Rest que nos permita gerenciar as diferentes categorias de nossos produtos, ou seja, a API deve nos permitir realizar operações CRUD. 
+  * Expor uma API Rest que nos permita gerenciar as diferentes categorias de nossos carros, ou seja, a API deve nos permitir realizar operações CRUD. 
   * Testar com Postman o funcionamento correto.
 
 * **Banco Dados**
   
-    * Expor uma API Rest que nos permita gerenciar as diferentes categorias de nossos produtos, ou seja, a API deve nos permitir realizar operações CRUD. 
-    * Testar com Postman o funcionamento correto.
+    * Criar uma base de dados em Mysql e a tabela “categorias” para persistir os dados de nosso sistema. 
 
 * **Testing**
   
@@ -249,7 +249,6 @@ Alucar e um Web App de aluguel de carros online que conecta quem precisa alugar 
   
 
 ### Lições aprendidas
-
 
 
 
