@@ -62,6 +62,8 @@ Alucar e um Web App de aluguel de carros online que conecta quem precisa alugar 
 * **Front End**
 
   * Template da página home responsive, que inclua header, buscador, categorias de forma funcional, lista de carros e footer, além de um bloco emergente de registro de login.
+
+
  ![Versão Mobile](https://user-images.githubusercontent.com/83051644/163721550-751d8c3d-7b45-4c2b-8ad9-5837f33262e5.png)
  ![Versção Desktop](https://user-images.githubusercontent.com/83051644/163721636-c88d9dd1-eeb0-45d2-959d-23b578422073.png)
 
