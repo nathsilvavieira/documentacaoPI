@@ -59,6 +59,7 @@ Alucar e um Web App de aluguel de carros online que conecta quem precisa alugar 
 * *Git*
 * *GitHub*
 * *GitLab*
+* *Figma*
 
 ****
 
@@ -92,6 +93,7 @@ Alucar e um Web App de aluguel de carros online que conecta quem precisa alugar 
   * Validar o funcionamento da API Rest criada durante a Sprint através do Postman e criar todos os scripts de testes pertinentes;
   * Executar os Casos de Teste que foram planejados inicialmente para a Sprint;
   * Fazer um teste exploratório sobre o que foi desenvolvido durante a Sprint.
+    - [Link Casos de teste e teste exploratório](https://docs.google.com/spreadsheets/d/1jsBMA1GEZW0pySNQ8QNekEMqFCganpSo/edit#gid=1177918246)
 
 * **Infraestrutura**
   
@@ -122,6 +124,9 @@ Alucar e um Web App de aluguel de carros online que conecta quem precisa alugar 
   * Criar tela de detalhe do produto;
   * Conexão APIs com a página Home;
   * Conexão APIs com a página detalhe do produto.
+  
+    ![Detalhes](https://user-images.githubusercontent.com/83051644/163899209-84dbc3ca-bc37-4c69-8b8b-2eb80d4cc53e.png)
+
 
 * **Back End**
 
@@ -142,11 +147,16 @@ Alucar e um Web App de aluguel de carros online que conecta quem precisa alugar 
   * Criar tabela de cidades.
   * Criar tabela de características. 
   * Criar tabela de imagens.
+  
+  ![Tabelas e seus relacionamentos](https://user-images.githubusercontent.com/83051644/163896992-eab07e36-8b82-4881-b882-c90225d0a7c1.png)
+
 
 * **Testing**
   
   * Teste com Robot Framework da página Home.
   * Teste com Postman das APIs.
+      - [Robot Framework](https://drive.google.com/drive/folders/15-IEg0B6pF8142pZDrTCqOllywn5DTb9?usp=sharing)
+      - [Casos de Teste](https://docs.google.com/spreadsheets/d/1jsBMA1GEZW0pySNQ8QNekEMqFCganpSo/edit?usp=sharing&ouid=103135306469444684787&rtpof=true&sd=true)
 
 * **Infraestrutura**
   
@@ -156,13 +166,13 @@ Alucar e um Web App de aluguel de carros online que conecta quem precisa alugar 
 
 ### Review - Lições aprendidas
 
-> Planejamento da review, para entregar o real valor do produto para o cliente;
-> 
-> Adaptação dos requisitos;
->
-> Refatoração e aperfeiçoando do código para melhor desepenho.
-> 
-> Espírito de Equipe.
+:white_check_mark: Planejamento da review, para entregar o real valor do produto para o cliente;
+
+:white_check_mark: Adaptação dos requisitos;
+
+:white_check_mark: Refatoração e aperfeiçoando do código para melhor desepenho.
+
+:white_check_mark: Espírito de Equipe.
 
 ***
 
@@ -196,7 +206,7 @@ Alucar e um Web App de aluguel de carros online que conecta quem precisa alugar 
 
   *  Tabela de usuários; 
 
-  * Tabela de funções;
+  *  Tabela de funções;
 
 * **Testing**
   
@@ -215,13 +225,13 @@ Alucar e um Web App de aluguel de carros online que conecta quem precisa alugar 
 
 ### Review - Lições aprendidas
 
-> Suporte das equipes transversais;
-> 
-> Determinação da equipe;
->
-> Trabalhar no planejamento para evitar sobrecarga de atividades;
-> 
-> Priorizar entregas essenciais;
+:white_check_mark: Suporte das equipes transversais;
+
+:white_check_mark: Determinação da equipe;
+
+:white_check_mark: Trabalhar no planejamento para evitar sobrecarga de atividades;
+
+:white_check_mark: Priorizar entregas essenciais;
 
 
 ### **Quarta Sprint**
@@ -249,6 +259,9 @@ Alucar e um Web App de aluguel de carros online que conecta quem precisa alugar 
 * **Banco Dados**
   
   *  Entrega do DER do estado final da base de dados.
+  
+  ![DER](https://user-images.githubusercontent.com/83051644/163899652-dec5276f-1e53-4d8a-a4fa-f371252e3bda.png)
+
 
 * **Testing**
   
@@ -257,11 +270,14 @@ Alucar e um Web App de aluguel de carros online que conecta quem precisa alugar 
   * Executar os casos de testes que pertencem à suite de regressão e gerar um relatório final de testes. 
   * Adicionar à coleção de Postman scripts automatizados para testar os métodos  agregados neste sprint. 
   * Criar um script relacionado a ambas páginas em testes de regressão automatizados criados com Selenium Web Driver / JEST.
+    - [Casos de Teste](https://docs.google.com/spreadsheets/d/1jsBMA1GEZW0pySNQ8QNekEMqFCganpSo/edit?usp=sharing&ouid=103135306469444684787&rtpof=true&sd=true)
+    - [Teste Exploratório](https://docs.google.com/spreadsheets/d/1jsBMA1GEZW0pySNQ8QNekEMqFCganpSo/edit#gid=1694370201)
+    - 
 
 * **Infraestrutura**
   
   * Criar uma URL para acesso ao site do Projeto Integrador. 
-  * Criar Pipeline em Terraform para automatização 
+  
   
   
 
