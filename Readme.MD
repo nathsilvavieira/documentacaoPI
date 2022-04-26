@@ -9,9 +9,9 @@
       - [Segunda Sprint](#segunda-sprint)
       - [Terceira Sprint](#terceira-sprint)
       - [Quarta Sprint](#quarta-sprint)
-*   [Como utilizar nossa plataforma](#)
-*   [Referências](#)
-*   [Agradecimentos](#)
+*   [Como utilizar nossa plataforma](#como-utilizar-nossa-plataforma)
+*   [Referências](#referências)
+*   [Agradecimentos](#agradecimentos)
   
 *** 
  ## Introdução
@@ -283,9 +283,29 @@ Alucar e um Web App de aluguel de carros online que conecta quem precisa alugar 
 
 ### Review - Lições aprendidas
 
+:white_check_mark: 
+
+:white_check_mark: 
+
+:white_check_mark: 
+
+:white_check_mark: 
 
 
+## *Como utilizar nossa plataforma*
+
+* Realizar clone do repositório;
+* Abrir projeto na IDE VScode para executar o Front End;
+* 
+## *Referências*
+*  [MDN](#)
+*  [StackOverflow](#)
+*  [YouTube](#)
 
 
+## *Agradecimentos*
 
+O Grupo agradece aos instrutores e colegas do curso Certified Tech Developer da *Digital House* em especial aos professores e instrutores Vitória Gonçalves que desempenhou o papel de Scrum Master, Matheus Mafra que atuou como nosso PO e também aos professores Sergio Silva, Renan Souza, Whesley Rimar,Tiago Gomes além dos assistentes Gabriel Rodrigues, Priscilla Souza, Janete Ferreira, Moises Vasconcellos e Nidio Dolfini que nos deram toda base e conhecimento técnico necessário para desenvolvermos todo o projeto integrador. 
+
+Agradecemos também aos patrocinadores *Mercado Livre* e *Globant* por disponibilizar essas bolsas de estudo, que nos possibilitou a capacitação necessária para ingressar no mercado de trabalho. 
 
