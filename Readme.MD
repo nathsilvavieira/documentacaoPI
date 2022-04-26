@@ -59,7 +59,7 @@ Alucar e um Web App de aluguel de carros online que conecta quem precisa alugar 
 * *Git*
 * *GitHub*
 * *GitLab*
-* *Figma*
+* *[Figma](https://www.figma.com/file/baMcKf0sEZ4UrZp3z9DIxB/Prot%C3%B3tipo---AluCar?node-id=448%3A9856)*
 
 ****
 
