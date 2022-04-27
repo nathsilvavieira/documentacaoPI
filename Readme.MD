@@ -24,6 +24,8 @@ Durante o processo de desenvolvimento do projeto precisamos solucionar inumeros 
 
 Alucar e um Web App de aluguel de carros online que conecta quem precisa alugar um carro com as melhores opções e preços do país, uma plataforma 100% segura que traz consigo a segurança e conforto necessário para utilização dos serviços oferecidos.
 
+O objetivo do nosso projeto é desenvolver um  site funcional,  de simples manuseio pelos usuários que permita que nossos clientes e administradores naveguem de forma fácil e rápida, tendo acesso a todo histórico e registro de atividades. 
+
 *** 
 
 ## Ferramenta Utilizadas
@@ -67,6 +69,8 @@ Alucar e um Web App de aluguel de carros online que conecta quem precisa alugar 
 
 ### **Primeira Sprint**
 
+Foi criado o design do Figma para o projeto, discutido identidade visual da empresa, desenvolvido um desenho da infraestrutura necessária, distribuído as atividades de cada responsável, planejados casos de testes iniciais, criado tabelas necessárias e feito uma página home responsiva. 
+
 * **Front End**
 
   * Template da página home responsive, que inclua header, buscador, categorias de forma funcional, lista de carros e footer, além de um bloco emergente de registro de login.
@@ -106,6 +110,8 @@ Alucar e um Web App de aluguel de carros online que conecta quem precisa alugar 
 
 ### Review - Lições aprendidas
 
+Discutimos os principais pontos impactantes da sprint e obstaculos enfrentados, levantadas as seguintes lições aprendidas:
+
 :white_check_mark: Melhorar a Gestao do tempo;
  
 :white_check_mark: Entregar maior valor para cliente;
@@ -118,6 +124,7 @@ Alucar e um Web App de aluguel de carros online que conecta quem precisa alugar 
 ***
 
 ### **Segunda Sprint**
+
 
 * **Front End**
 
