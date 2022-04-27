@@ -12,6 +12,7 @@
 *   [Como utilizar nossa plataforma](#como-utilizar-nossa-plataforma)
 *   [Referências](#referências)
 *   [Agradecimentos](#agradecimentos)
+*   [Conclusão](#conclusão)
   
 *** 
  ## Introdução
@@ -125,6 +126,7 @@ Discutimos os principais pontos impactantes da sprint e obstaculos enfrentados, 
 
 ### **Segunda Sprint**
 
+Atualizamos o design no Figma e refatorado código, criado a infraestrutura no AWS, realizado os testes automatizados com as funcionalidades, desenvolvido os detalhes de produto no Front End e conectado as APIs do Back end, criada e populada as tabelas no Banco de Dados. 
 
 * **Front End**
 
@@ -173,6 +175,8 @@ Discutimos os principais pontos impactantes da sprint e obstaculos enfrentados, 
 
 ### Review - Lições aprendidas
 
+Após implementado os pontos levantados na sprint anterior e demonstramos pontos fortes do grupo abaixo:
+
 :white_check_mark: Planejamento da review, para entregar o real valor do produto para o cliente;
 
 :white_check_mark: Adaptação dos requisitos;
@@ -184,6 +188,8 @@ Discutimos os principais pontos impactantes da sprint e obstaculos enfrentados, 
 ***
 
 ### **Terceira Sprint**
+
+Atualizado e refatorado todo código, criado as telas de reservas, desenvolvidas novas APIs e testadas, criadas e populadas novas tabelas no banco, além de feito deploy do código e adicionado imagens na AWS. 
 
 * **Front End**
 
@@ -217,7 +223,7 @@ Discutimos os principais pontos impactantes da sprint e obstaculos enfrentados, 
 
 * **Testing**
   
-  * Criar testes unitários para páginas de reserva e confirmação de reserva usando JEST framework.
+  * Criar testes unitários para páginas de reserva e confirmação de reserva.
   * Executar teste exploratório das páginas de reserva e confirmação de reserva.
   * Desenvolver scripts de teste automatizados usando Postman para a API de produtos.
   * Continuar com as atividades de criação e execução de casos de teste manuais e testes estáticos.
@@ -231,6 +237,8 @@ Discutimos os principais pontos impactantes da sprint e obstaculos enfrentados, 
   
 
 ### Review - Lições aprendidas
+
+Novos obstáculos foram identiifcados, a resiliência da equipe foi trabalhada, apesar de atrasos em algumas entregas devido a problemas identificados no código (funcionamento JWT) conseguimos realizar a entrega. 
 
 :white_check_mark: Suporte das equipes transversais;
 
@@ -301,7 +309,7 @@ Discutimos os principais pontos impactantes da sprint e obstaculos enfrentados, 
 
 ## *Como utilizar nossa plataforma*
 
-### *Front End*
+### **Front End**
 
 * Realizar clone do repositório;
 * Abrir projeto na IDE VScode para executar o Front End;
@@ -309,7 +317,7 @@ Discutimos os principais pontos impactantes da sprint e obstaculos enfrentados, 
 * Excutar comando npm install;
 * Executar comendo npm start. 
 
-### *Back End*
+### **Back End**
 * Realizar clone do repositório;
 * Abrir projeto na IDE Intellij para executar o Back End;
 * Abrir terminal no VScode e executar comando git checkout Backend;
@@ -328,4 +336,7 @@ Discutimos os principais pontos impactantes da sprint e obstaculos enfrentados, 
 O Grupo agradece aos instrutores e colegas do curso Certified Tech Developer da *Digital House* em especial aos professores e instrutores Vitória Gonçalves que desempenhou o papel de Scrum Master, Matheus Mafra que atuou como nosso PO e também aos professores Sergio Silva, Renan Souza, Whesley Rimar,Tiago Gomes além dos assistentes Gabriel Rodrigues, Priscilla Souza, Janete Ferreira, Moises Vasconcellos e Nidio Dolfini que nos deram toda base e conhecimento técnico necessário para desenvolvermos todo o projeto integrador. 
 
 Agradecemos também aos patrocinadores *Mercado Livre* e *Globant* por disponibilizar essas bolsas de estudo, que nos possibilitou a capacitação necessária para ingressar no mercado de trabalho. 
+
+## *Conclusão*
+
 
