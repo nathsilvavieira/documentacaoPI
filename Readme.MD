@@ -294,9 +294,22 @@ Alucar e um Web App de aluguel de carros online que conecta quem precisa alugar 
 
 ## *Como utilizar nossa plataforma*
 
+### *Front End*
+
 * Realizar clone do repositório;
 * Abrir projeto na IDE VScode para executar o Front End;
-* 
+* Abrir terminal no VScode e executar comando git checkout Frontend;
+* Excutar comando npm install;
+* Executar comendo npm start. 
+
+### *Back End*
+* Realizar clone do repositório;
+* Abrir projeto na IDE Intellij para executar o Back End;
+* Abrir terminal no VScode e executar comando git checkout Backend;
+* Excutar com comando Run ou Shift+F10.
+ 
+
+
 ## *Referências*
 *  [MDN](#)
 *  [StackOverflow](#)
