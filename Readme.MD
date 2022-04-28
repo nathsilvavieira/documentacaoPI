@@ -88,7 +88,7 @@ Foi criado o design do Figma para o projeto, discutido identidade visual da empr
   * Template da página home responsive, que inclua header, buscador, categorias de forma funcional, lista de carros e footer, além de um bloco emergente de registro de login.
 
 
- ![Versção Desktop](https://user-images.githubusercontent.com/83051644/163721636-c88d9dd1-eeb0-45d2-959d-23b578422073.png)
+ ![Versão Desktop](https://user-images.githubusercontent.com/83051644/163721636-c88d9dd1-eeb0-45d2-959d-23b578422073.png)
 
 * **Back End**
 
@@ -260,6 +260,8 @@ Novos obstáculos foram identiifcados, a resiliência da equipe foi trabalhada, 
 :white_check_mark: Priorizar entregas essenciais;
 
 
+***
+
 ### **Quarta Sprint**
 
 Iniciamos essa sprint com a resolução das pendências da quarta sprint e finalização das funcionalidades de administrador e reservas na API e no Front End. Implementação dos testes automatizados e relatórios, finalização do banco de dados e criação da URL. 
@@ -318,6 +320,8 @@ Finalizamos o projeto com muitas lições aprendidas, pudemos simular o ambiente
 
 :white_check_mark: Rotacionamento de atividades. 
 
+***
+
 
 ## *Como utilizar nossa plataforma*
 
@@ -335,7 +339,7 @@ Finalizamos o projeto com muitas lições aprendidas, pudemos simular o ambiente
 * Abrir terminal no VScode e executar comando git checkout Backend;
 * Excutar com comando Run ou Shift+F10.
  
-
+***
 
 ## *Referências*
 *  [MDN - React](https://developer.mozilla.org/pt-BR/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_getting_started)
@@ -379,12 +383,15 @@ Finalizamos o projeto com muitas lições aprendidas, pudemos simular o ambiente
 *  [Playground](https://br-playground.digitalhouse.com/login)
 
 
+***
+
 ## *Agradecimentos*
 
 O Grupo agradece aos instrutores e colegas do curso Certified Tech Developer da *Digital House* em especial aos professores e instrutores Vitória Gonçalves que desempenhou o papel de Scrum Master, Matheus Mafra que atuou como nosso PO e também aos professores Sergio Silva, Renan Souza, Whesley Rimar,Tiago Gomes além dos assistentes Gabriel Rodrigues, Priscilla Souza, Janete Ferreira, Moises Vasconcellos e Nidio Dolfini que nos deram toda base e conhecimento técnico necessário para desenvolvermos todo o projeto integrador. 
 
 Agradecemos também aos patrocinadores *Mercado Livre* e *Globant* por disponibilizar essas bolsas de estudo, que nos possibilitou a capacitação necessária para ingressar no mercado de trabalho. 
 
+***
 ## *Conclusão*
 
 Nosso projeto tem cunho educativo que visa simular o ambiente de trabalho, foi implementado nesse bimestre conceitos aprendidos durante esses 9 meses de curso consultando além dos materiais disponibilizados e colaboração dos tutores e colegas de turma. 
