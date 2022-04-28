@@ -34,14 +34,18 @@ O objetivo do nosso projeto é desenvolver um  site funcional,  de simples manus
 **Front End**
 * *HTML + CSS + Javascript*
   * *SASS*
+  * *FontAwesome*
 * *React*
   * *Node + NPM*
+  * *MUI*
+  * *Popper*
   
 **Back End**
 * *Java* 
   * *Spring* 
   * *Hibernete*
   * *Javadoc*
+  * *Swagger UI*
 * *API*
   * *REST*
   * *JSON*
@@ -61,6 +65,11 @@ O objetivo do nosso projeto é desenvolver um  site funcional,  de simples manus
 **Gestão**
 * *Git*
 * *GitHub*
+   - [FrontEnd](https://github.com/noubarijou/PICTDFEFinal)
+   - [BackEnd I](https://github.com/noubarijou/PICTDBEFinal)
+   - [BackEnd II](https://github.com/NelsonKobayashi/PICTDBE-FINAL)
+   - [BackEnd III](https://github.com/NelsonKobayashi/ProjetoIntegradorBackendFinal)
+*  
 * *GitLab*
 * *[Figma](https://www.figma.com/file/baMcKf0sEZ4UrZp3z9DIxB/Prot%C3%B3tipo---AluCar?node-id=448%3A9856)*
 * *[Metro](https://metroretro.io/)*
@@ -329,9 +338,44 @@ Finalização do projeto,
 
 
 ## *Referências*
-*  [MDN](#)
-*  [StackOverflow](#)
-*  [YouTube](#)
+*  [MDN - React](https://developer.mozilla.org/pt-BR/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_getting_started)
+*  *StackOverflow*
+    - [StackOverflow-React](https://stackoverflow.com/questions/59144633/i-am-getting-an-error-of-html-webpack-plugin-in-reactjs)
+    - [CORS issue on Swagger UI](https://stackoverflow.com/questions/32480934/cors-issue-on-swagger-ui)
+*  [Como usar o Fontawesome](https://www.digitalocean.com/community/tutorials/how-to-use-font-awesome-5-with-react-pt)
+*  *Youtube*
+    - [Datepicker](https://www.youtube.com/watch?v=iYZryimRK9w)
+    - [Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA)
+    - [Autenticação JWT com React Router](https://www.youtube.com/watch?v=AClyxTbfI08)
+    - [Tutorial: Como criar um token JWT com Java, Spring Boot, Spring Security e JPA](https://www.youtube.com/playlist?list=PLTN1gMq8EHuIpxyecEp04TvLr3TQbzMRL)
+    - [Protegendo sua aplicação Java com Spring Security](https://www.youtube.com/watch?v=FOX0r52_hwE)
+    - [Autenticação JWT com Spring Security](https://www.youtube.com/watch?v=idnwOWqUsEQ)
+    - [API REST com Spring Boot - parte 5: Swagger](https://www.youtube.com/watch?v=HX4lheDqoiA)
+    - [Como fazer testes automatizados em JS](https://www.youtube.com/watch?v=8hxhZkBzWhk)
+*  [React](https://pt-br.reactjs.org/tutorial/tutorial.html)
+*  [React Hooks JWT Authentication ](https://www.bezkoder.com/react-hooks-jwt-auth/)
+*  [Spring Boot Token based Authentication with Spring Security & JWT](https://www.bezkoder.com/spring-boot-jwt-authentication/)
+*  [MUI - React UI](https://mui.com/pt/material-ui/getting-started/learn/)
+*  [IQcode](https://iqcode.com/code/javascript/yup-validate-password-confirmation)
+*  *NPM*
+    - [Datepicker](https://www.npmjs.com/package/react-datepicker)
+    - [ReactDatepicker](https://reactdatepicker.com/#example-date-range)
+    - [Popper](https://popper.js.org/docs/v2/tutorial/)
+*  [CRUD Operations using MySQL Database](https://www.geeksforgeeks.org/spring-boot-crud-operations-using-mysql-database/)
+*  [CTD SummerWeek Spring Security](https://github.com/gabriel-srodrigues/security-summer-week)
+*  [SpringSecurity](https://glysns.gitbook.io/springframework/spring-security/untitled)
+*  [Swagger Cors](https://swagger.io/docs/open-source-tools/swagger-ui/usage/cors/)
+*  [Como Gerar Javadoc](https://www.impacta.com.br/blog/como-gerar-javadoc-no-eclipse/)
+*  [Spring Boot + Spring Security + JWT + MySQL + React Full Stack Polling App - Part 1](https://www.callicoder.com/spring-boot-spring-security-jwt-mysql-react-app-part-1/)
+*  [Spring Boot + Spring Security + JWT + MySQL + React Full Stack Polling app - Part 2](https://www.callicoder.com/spring-boot-spring-security-jwt-mysql-react-app-part-2/)
+*  [Summerweek Docker](https://nidio.notion.site/nidio/Summerweek-Docker-833ae2c08a994a81a7f0892673ee7dce)
+*  [21 Days of AWS using Terraform — Day 8- Introduction to AWS RDS MySQL using Terraform](https://devopslearning.medium.com/21-days-of-aws-using-terraform-day-8-introduction-to-aws-rds-mysql-using-terraform-d92ce1c52438)
+*  [Deploy de Aplicação Java na AWS](https://www.linkedin.com/pulse/deploy-de-aplica%25C3%25A7%25C3%25A3o-java-na-aws-tiago-perroni/?trackingId=G%2FyjmH%2FxSniHGyvFUYbrLw%3D%3D)
+*  [W3SHOOL-SQL](https://www.w3schools.com/sql/sql_alter.asp)
+*  [Capitais do Brasil](https://www.todamateria.com.br/capitais-do-brasil/)
+*  [Documentação Robotframework](https://github.com/robotframework/robotframework/blob/master/doc/releasenotes/rf-5.0.rst)
+*  [Testes automatizados Selenium](https://www.devmedia.com.br/testes-automatizados-com-o-framework-selenium/32955)
+*  [Testes React](https://create-react-app.dev/docs/running-tests/)
 
 
 ## *Agradecimentos*
