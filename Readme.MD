@@ -21,6 +21,8 @@ Este projeto avaliativo consiste em um Web App que foi desenvolvido utilizando m
 
 Nossa squad consiste em uma equipe com 6 pessoas, sendo 1 Lider de Front End Jennifer Mayumi, 1 Lider de Back End Nelson Kobayashi, 1 Lider de Infraestrutura Paulo Ventura, 1 Lider de Banco de Dados Nathalia Vieira, 1 Lider de Teste Andre Ribeiro e 1 FullStack Luiz Gustavo Trindade, que presta suporte a todas as frentes. 
 
+[Inclir imagem das forças e fortalezas do grupo]
+
 Durante o processo de desenvolvimento do projeto precisamos solucionar inumeros problemas e romper algumas barreiras tanto técnicas como de softskills para criação de um Web App consistente. 
 
 Alucar e um Web App de aluguel de carros online que conecta quem precisa alugar um carro com as melhores opções e preços do país, uma plataforma 100% segura que traz consigo a segurança e conforto necessário para utilização dos serviços oferecidos.
@@ -69,7 +71,6 @@ O objetivo do nosso projeto é desenvolver um  site funcional,  de simples manus
    - [BackEnd I](https://github.com/noubarijou/PICTDBEFinal)
    - [BackEnd II](https://github.com/NelsonKobayashi/PICTDBE-FINAL)
    - [BackEnd III](https://github.com/NelsonKobayashi/ProjetoIntegradorBackendFinal)
-*  
 * *GitLab*
 * *[Figma](https://www.figma.com/file/baMcKf0sEZ4UrZp3z9DIxB/Prot%C3%B3tipo---AluCar?node-id=448%3A9856)*
 * *[Metro](https://metroretro.io/)*
@@ -92,7 +93,7 @@ Foi criado o design do Figma para o projeto, discutido identidade visual da empr
 * **Back End**
 
   * Expor uma API Rest que nos permita gerenciar as diferentes categorias de nossos carros, ou seja, a API deve nos permitir realizar operações CRUD. 
-    -  [Link Javadoc](#)
+  
   * Testar com Postman o funcionamento correto.
 
 * **Banco Dados**
@@ -299,7 +300,6 @@ Iniciamos essa sprint com a resolução das pendências da quarta sprint e final
   * Criar um script relacionado a ambas páginas em testes de regressão automatizados criados com Selenium Web Driver / JEST.
     - [Casos de Teste](https://docs.google.com/spreadsheets/d/1jsBMA1GEZW0pySNQ8QNekEMqFCganpSo/edit?usp=sharing&ouid=103135306469444684787&rtpof=true&sd=true)
     - [Teste Exploratório](https://docs.google.com/spreadsheets/d/1jsBMA1GEZW0pySNQ8QNekEMqFCganpSo/edit#gid=1694370201)
-    - 
 
 * **Infraestrutura**
   
@@ -308,15 +308,15 @@ Iniciamos essa sprint com a resolução das pendências da quarta sprint e final
 
 ### Review - Lições aprendidas
 
-Finalização do projeto, 
+Finalizamos o projeto com muitas lições aprendidas, pudemos simular o ambiente de trabalho, lidamos com desafios de hard skills e softskills além de rotacionarmos nas funções. 
 
-:white_check_mark: 
+:white_check_mark: Desenvolvemos autogerenciamento de ativades. 
 
-:white_check_mark: 
+:white_check_mark: Habilidades de comunição.
 
-:white_check_mark: 
+:white_check_mark: Aprendemos a lidar com conflitos. 
 
-:white_check_mark: 
+:white_check_mark: Rotacionamento de atividades. 
 
 
 ## *Como utilizar nossa plataforma*
@@ -376,6 +376,7 @@ Finalização do projeto,
 *  [Documentação Robotframework](https://github.com/robotframework/robotframework/blob/master/doc/releasenotes/rf-5.0.rst)
 *  [Testes automatizados Selenium](https://www.devmedia.com.br/testes-automatizados-com-o-framework-selenium/32955)
 *  [Testes React](https://create-react-app.dev/docs/running-tests/)
+*  [Playground](https://br-playground.digitalhouse.com/login)
 
 
 ## *Agradecimentos*
@@ -386,5 +387,5 @@ Agradecemos também aos patrocinadores *Mercado Livre* e *Globant* por disponibi
 
 ## *Conclusão*
 
-Nosso projeto tem cunho educativo que visa simular o ambiente de trabalho, foi implementado nesse bimestre conceitos aprendidos durante esses 9 meses de curso consultando além dos materiais disponibilizados, tutores e colegas de turma. 
+Nosso projeto tem cunho educativo que visa simular o ambiente de trabalho, foi implementado nesse bimestre conceitos aprendidos durante esses 9 meses de curso consultando além dos materiais disponibilizados e colaboração dos tutores e colegas de turma. 
 
