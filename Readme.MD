@@ -63,6 +63,7 @@ O objetivo do nosso projeto é desenvolver um  site funcional,  de simples manus
 * *GitHub*
 * *GitLab*
 * *[Figma](https://www.figma.com/file/baMcKf0sEZ4UrZp3z9DIxB/Prot%C3%B3tipo---AluCar?node-id=448%3A9856)*
+* *[Metro](https://metroretro.io/)*
 
 ****
 
@@ -111,7 +112,7 @@ Foi criado o design do Figma para o projeto, discutido identidade visual da empr
 
 ### Review - Lições aprendidas
 
-Discutimos os principais pontos impactantes da sprint e obstaculos enfrentados, levantadas as seguintes lições aprendidas:
+Discutimos os principais pontos impactantes da sprint nessa [review](https://metroretro.io/board/LBBWAPVY7Z4O) e obstaculos enfrentados, levantadas as seguintes lições aprendidas:
 
 :white_check_mark: Melhorar a Gestao do tempo;
  
@@ -175,7 +176,7 @@ Atualizamos o design no Figma e refatorado código, criado a infraestrutura no A
 
 ### Review - Lições aprendidas
 
-Após implementado os pontos levantados na sprint anterior e demonstramos pontos fortes do grupo abaixo:
+Após implementado os pontos levantados na sprint anterior e demonstramos pontos fortes do grupo na [review](https://metroretro.io/board/LBT46JAZDG0H) abaixo:
 
 :white_check_mark: Planejamento da review, para entregar o real valor do produto para o cliente;
 
@@ -238,7 +239,7 @@ Atualizado e refatorado todo código, criado as telas de reservas, desenvolvidas
 
 ### Review - Lições aprendidas
 
-Novos obstáculos foram identiifcados, a resiliência da equipe foi trabalhada, apesar de atrasos em algumas entregas devido a problemas identificados no código (funcionamento JWT) conseguimos realizar a entrega. 
+Novos obstáculos foram identiifcados, a resiliência da equipe foi trabalhada, apesar de atrasos em algumas entregas devido a problemas identificados no código (funcionamento JWT) conseguimos realizar a entrega nesta penultima [review](https://metroretro.io/board/LB97BYK2B3LZ). 
 
 :white_check_mark: Suporte das equipes transversais;
 
@@ -250,6 +251,8 @@ Novos obstáculos foram identiifcados, a resiliência da equipe foi trabalhada, 
 
 
 ### **Quarta Sprint**
+
+Iniciamos essa sprint com a resolução das pendências da quarta sprint e finalização das funcionalidades de administrador e reservas na API e no Front End. Implementação dos testes automatizados e relatórios, finalização do banco de dados e criação da URL. 
 
 * **Front End**
 
@@ -292,11 +295,11 @@ Novos obstáculos foram identiifcados, a resiliência da equipe foi trabalhada, 
 * **Infraestrutura**
   
   * Criar uma URL para acesso ao site do Projeto Integrador. 
-  
-  
-  
+   
 
 ### Review - Lições aprendidas
+
+Finalização do projeto, 
 
 :white_check_mark: 
 
@@ -339,4 +342,5 @@ Agradecemos também aos patrocinadores *Mercado Livre* e *Globant* por disponibi
 
 ## *Conclusão*
 
+Nosso projeto tem cunho educativo que visa simular o ambiente de trabalho, foi implementado nesse bimestre conceitos aprendidos durante esses 9 meses de curso consultando além dos materiais disponibilizados, tutores e colegas de turma. 
 
