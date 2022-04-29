@@ -21,7 +21,16 @@ Este projeto avaliativo consiste em um Web App que foi desenvolvido utilizando m
 
 Nossa squad consiste em uma equipe com 6 pessoas, sendo 1 Lider de Front End Jennifer Mayumi, 1 Lider de Back End Nelson Kobayashi, 1 Lider de Infraestrutura Paulo Ventura, 1 Lider de Banco de Dados Nathalia Vieira, 1 Lider de Teste Andre Ribeiro e 1 FullStack Luiz Gustavo Trindade, que presta suporte a todas as frentes. 
 
-[Inclir imagem das forças e fortalezas do grupo]
+![Andre](https://user-images.githubusercontent.com/83051644/166056705-a0e705eb-8f64-4dfa-86f9-127c2cbc870b.png)
+![Jennifer](https://user-images.githubusercontent.com/83051644/166056044-f7b259ba-17e4-4e9b-90e2-941e60a784e7.png)
+![Luiz](https://user-images.githubusercontent.com/83051644/166056487-47730bd5-0502-44d9-ac90-ae08a97ccca2.png)
+![Nathalia](https://user-images.githubusercontent.com/83051644/166055309-93d4ac18-90be-4e01-ae0f-1d811f7b59f7.png)
+![Nelson](https://user-images.githubusercontent.com/83051644/166055721-3c20cc98-856c-42d6-a209-d98f4b9e210e.png)
+![Paulo](https://user-images.githubusercontent.com/83051644/166056251-84dbe64a-d00a-4160-a970-bf9c75380380.png)
+
+
+
+
 
 Durante o processo de desenvolvimento do projeto precisamos solucionar inumeros problemas e romper algumas barreiras tanto técnicas como de softskills para criação de um Web App consistente. 
 
