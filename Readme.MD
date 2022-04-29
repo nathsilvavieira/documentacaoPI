@@ -175,8 +175,7 @@ Atualizamos o design no Figma e refatorado código, criado a infraestrutura no A
   
   * Teste com Robot Framework da página Home.
   * Teste com Postman das APIs.
-      - [Robot Framework](https://drive.google.com/drive/folders/15-IEg0B6pF8142pZDrTCqOllywn5DTb9?usp=sharing)
-      - [Casos de Teste](https://docs.google.com/spreadsheets/d/1jsBMA1GEZW0pySNQ8QNekEMqFCganpSo/edit?usp=sharing&ouid=103135306469444684787&rtpof=true&sd=true)
+       - [Casos de Teste](https://docs.google.com/spreadsheets/d/1jsBMA1GEZW0pySNQ8QNekEMqFCganpSo/edit?usp=sharing&ouid=103135306469444684787&rtpof=true&sd=true)
 
 * **Infraestrutura**
   
@@ -207,6 +206,9 @@ Atualizado e refatorado todo código, criado as telas de reservas, desenvolvidas
   * Tela de reserva.
   * Tela de confirmação de reserva.
 
+![Reserva](https://user-images.githubusercontent.com/83051644/166010019-7ac57f54-c172-4cf4-b2cc-e267d75c07fc.png)
+
+
 * **Back End**
 
   * API de produtos:
@@ -232,20 +234,24 @@ Atualizado e refatorado todo código, criado as telas de reservas, desenvolvidas
 
   *  Tabela de funções;
 
+![Tabela](https://user-images.githubusercontent.com/83051644/166008153-965ee2dd-7205-4724-8fbb-e5a992ffc994.png)
+
 * **Testing**
   
   * Criar testes unitários para páginas de reserva e confirmação de reserva.
   * Executar teste exploratório das páginas de reserva e confirmação de reserva.
   * Desenvolver scripts de teste automatizados usando Postman para a API de produtos.
   * Continuar com as atividades de criação e execução de casos de teste manuais e testes estáticos.
+  
+    - [Casos de Teste](https://docs.google.com/spreadsheets/d/1jsBMA1GEZW0pySNQ8QNekEMqFCganpSo/edit#gid=809045702)
+    - [Teste Exploratório](https://docs.google.com/spreadsheets/d/1jsBMA1GEZW0pySNQ8QNekEMqFCganpSo/edit#gid=1694370201)
 
 * **Infraestrutura**
   
   * Fazer o deploy do código no servidor web EC2 na AWS;
   * Criar tabelas no RDS na AWS;
   * Adicionar imagens no Bucket AWS para gerar URL.
-  
-  
+   
 
 ### Review - Lições aprendidas
 
@@ -268,8 +274,12 @@ Iniciamos essa sprint com a resolução das pendências da quarta sprint e final
 
 * **Front End**
 
-  * Página de administrador de produto. 
+  * Página de administrador de produto, para acessar usar login admin@dh.com.br e senha admin
+  
   * Página de reservas feitas pelo usuário.
+
+![Admin](https://user-images.githubusercontent.com/83051644/166009458-ba10c83a-798e-4f92-93a0-36c945e7a6cf.png)
+
 
 * **Back End**
 
